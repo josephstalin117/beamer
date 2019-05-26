@@ -1,0 +1,15 @@
+*.xdv
+*.gz
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+.vscode
+*.synctex(busy)
+*.nav
+*.snm
+*.toc
+
+*.bbl
+*.blg
+*.pdf
